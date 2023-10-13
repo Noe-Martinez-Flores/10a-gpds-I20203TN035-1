@@ -1,1 +1,2 @@
 const algo = () => {}
+const segundoAlgo = () => {}
